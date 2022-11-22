@@ -1,4 +1,6 @@
 Para ejecutar el API se debe ejecutar el siguiente comando
+npm install -g json-server
+
 json-server --watch db.json
 
 Para eecutar PHP se debe eecutar el siguiente comando
