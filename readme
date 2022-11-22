@@ -1,0 +1,5 @@
+Para ejecutar el API se debe ejecutar el siguiente comando
+json-server --watch db.json
+
+Para eecutar PHP se debe eecutar el siguiente comando
+php -S localhost:8000
