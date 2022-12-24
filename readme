@@ -1,7 +1,10 @@
-Para ejecutar el API se debe ejecutar el siguiente comando
+Para levantar nueva API debemos correr el siguiente comando para instalar el paquete necesario.
+https://github.com/typicode/json-server
+
 npm install -g json-server
 
+Para correr el servicio usamos:
 json-server --watch db.json
 
-Para eecutar PHP se debe eecutar el siguiente comando
+Para eecutar PHP se debe ejcutar el siguiente comando
 php -S localhost:8000
